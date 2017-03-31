@@ -4,5 +4,5 @@
 2. 绿色view：超出绿色view范围的子view也能接收事件
 3. 红色view：绿色view的子view
 
-![demo](https://github.com/YaoYaoX/ResponseChainTest/blob/master/Pic/pic.png =500*889)
+![demo](https://github.com/YaoYaoX/ResponseChainTest/blob/master/Pic/pic.png =500x889)
 
